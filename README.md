@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOODSUSRINIVAS
 - 👀 I’m interested in  data analyst role
-- 🌱 I’m currently learning  data analytics
+- 🌱 I’m currently learning  data analytics and science
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me mobile:6302653131
 - 😄 Pronouns: he
