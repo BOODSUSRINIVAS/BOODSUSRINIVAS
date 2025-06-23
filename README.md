@@ -40,7 +40,7 @@ Active learner at Newton School
 
 🔗 LinkedIn:www.linkedin.com/in/boodsusrinivas-dataanalyst
 
-📧 Email: your.email@example.com
+📧 Email: srinivasboodsu123@gmail.com
 <!---
 BOODSUSRINIVAS/BOODSUSRINIVAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
